@@ -28,7 +28,7 @@ This repository contains all AWS and Python projects developed during training a
 🔗https://github.com/shripatil70/Automate-Static-Web-Hosting
 
 ### 8. Containerized Node.js Application
-🔗https://github.com/shripatil70/Automate-Static-Web-Hosting
+🔗https://github.com/shripatil70/Containerized-Node.js-Application
 
 ---
 
