@@ -42,6 +42,7 @@ This repository contains all AWS and Python projects developed during training a
 - VPC
 - Python
 - PHP
+- Docker
 - HTML/CSS
 - Cloud Computing
 
