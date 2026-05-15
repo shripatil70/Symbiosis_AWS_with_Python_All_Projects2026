@@ -44,3 +44,11 @@ This repository contains all AWS and Python projects developed during training a
 - PHP
 - HTML/CSS
 - Cloud Computing
+
+---
+
+## Mentor Guidance
+
+I would like to sincerely thank my mentor **Vishal Bafna Sir** for his continuous guidance, support, and encouragement throughout the AWS with Python training program. His mentorship helped me understand cloud technologies, deployment strategies, automation, and real-world project implementation effectively.
+
+I am also thankful to **Symbiosis Centre for Distance Learning (SCDL)** for providing this learning opportunity and practical exposure to AWS and Python-based cloud projects.
