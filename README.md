@@ -1,6 +1,6 @@
-# AWS with Python Projects Portfolio
+# Symbiosis Course --> AWS with Python Projects for Submission
 
-This repository contains all AWS and Python projects developed during training and practice.
+This repository contains all AWS and Python projects developed during training and for final assessment.
 
 ---
 
