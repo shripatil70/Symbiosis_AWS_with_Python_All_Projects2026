@@ -1,1 +1,46 @@
-# Symbiosis_AWS_with_Python_All_Projects2026
+# AWS with Python Projects Portfolio
+
+This repository contains all AWS and Python projects developed during training and practice.
+
+---
+
+## Projects
+
+### 1.  Scalable Web App with NLB and Auto Scaling
+🔗 https://github.com/shripatil70/nlb_web-app
+
+### 2. Serverless Image Resizer
+🔗 https://github.com/shripatil70/Serverless-Image-Resizer
+
+### 3. LEMP Application Hosting
+🔗 https://github.com/shripatil70/lemp-aws-project
+
+### 4. LAMP Application Hosting
+🔗 https://github.com/shripatil70/lamp-aws-project
+
+### 5. Multi-tier Web App Deployment
+🔗 https://github.com/shripatil70/aws-multi-tier-web-app
+
+### 6. Cloud Native Web App
+🔗 https://github.com/shripatil70/Cloud-native-webapp
+
+### 7. Use SDK to Automate Static Web Hosting
+🔗https://github.com/shripatil70/Automate-Static-Web-Hosting
+
+### 8. Containerized Node.js Application
+🔗https://github.com/shripatil70/Automate-Static-Web-Hosting
+
+---
+
+## Technologies Used
+
+- AWS
+- EC2
+- Lambda
+- S3
+- IAM
+- VPC
+- Python
+- PHP
+- HTML/CSS
+- Cloud Computing
